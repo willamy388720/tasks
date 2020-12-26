@@ -4,8 +4,7 @@ import {
   Text,
   StyleSheet,
   View,
-  TouchableOpacity,
-  Alert
+  TouchableOpacity
 } from 'react-native'
 
 import axios from 'axios'
